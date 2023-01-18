@@ -1,0 +1,49 @@
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: medium;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  .button:active {
+    box-shadow: 5px 5px 10px black;
+  }
+  
+  .button2 {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: medium;
+    border-radius: 25px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    cursor: pointer;
+  }
+  .button:hover {
+    background-color: rgb(85, 81, 81);
+  }
+  
+  .logo {
+    background-color: rgba(255, 0, 0, 0, 5);
+  }
+  
+  #aboutus {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: large;
+  
+  }
+  .store {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: medium;
+    border-radius: 25px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    cursor: pointer;
+    margin: auto;
+  }
