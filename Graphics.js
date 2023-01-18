@@ -11,12 +11,3 @@ function secondbutton(){
         x.innerHTML = "";
     }
     
-}
-function listitems(){
-    var listitems = ["overwatch", "fortnite", "oliver"]
-    var list = ""
-    for (let i = 0; i < listitems.length; i++) {
-        listitems = listitems + i;
-      }
-console.log(list)
-}
